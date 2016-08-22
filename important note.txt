@@ -1,0 +1,16 @@
+dir-it displays list of directories
+
+cd -change directory to enter into any folder
+
+cd .. -go to back to the folder
+
+cls - clean the command prompt
+
+mkdir - to create directory
+
+rmdir - to delete directory
+
+
+To execute war file:
+
+java -jar jenkins.war

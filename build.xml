@@ -1,0 +1,7 @@
+<?xml version=1.0?>
+<project name="techforce" default ="compile">
+<target name="compile">
+<javac src dir ="./abc" dest dir='abc'/>
+<echo> sucessfully compile </echo>
+</target>
+</project>
