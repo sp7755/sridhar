@@ -1,0 +1,15 @@
+<?xml version="1.0"?>
+<project name="techforce" default="jar">
+<target name="jar">
+<echo> ${ant.file} </echo>
+<echo>${java.version} </echo>
+<echo>${basedir} </echo>
+<echo>${ant.java.version} </echo>
+<echo>${ant.project.name} </echo>
+<echo>${ant.project.default-target} </echo>
+<echo>${ant.project.invoked.targets} </echo>
+<echo>${ant.core.lib} </echo>
+<echo>${ant.home} </echo>
+<echo>${ant.library.dir} </echo>
+</target>
+</project>
